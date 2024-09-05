@@ -52,9 +52,13 @@ Logic Layer (App Tier):
 # Compute - Amazon EC2
 Amazon EC2 provides scalable computing capacity in the AWS cloud.<br><br>
 
-![Screenshot 2024-09-04 215909](https://github.com/user-attachments/assets/ea685491-b4d6-4f10-ba28-0e1c29a4a6bc)<br><br>
+![Screenshot 2024-09-04 215909](https://github.com/user-attachments/assets/ea685491-b4d6-4f10-ba28-0e1c29a4a6bc)
 
-![image](https://github.com/user-attachments/assets/5dbd0948-7716-401e-9906-614b165aef0c)<br><br>
+<br><br>
+
+![image](https://github.com/user-attachments/assets/5dbd0948-7716-401e-9906-614b165aef0c)
+
+<br><br>
 
 ## steps:
 - Create a New Key Pair: Explanation and purpose.
@@ -63,18 +67,31 @@ Amazon EC2 provides scalable computing capacity in the AWS cloud.<br><br>
 - Elastic IPs & Instance Type: Optional configurations.
 - Clean Up Resources: Importance and method.<br><br>
 
-![image](https://github.com/user-attachments/assets/aa745374-6cfa-4b6b-ba7f-cb8e244db3c4)<br><br>
+![image](https://github.com/user-attachments/assets/aa745374-6cfa-4b6b-ba7f-cb8e244db3c4)
 
-![image](https://github.com/user-attachments/assets/78f8930c-4895-45b6-8f47-3a8377bb4afd)<br><br>
+<br><br>
 
-![image](https://github.com/user-attachments/assets/9d5d5440-c0f2-451f-9759-5e01476241f1)<br><br>
+![image](https://github.com/user-attachments/assets/78f8930c-4895-45b6-8f47-3a8377bb4afd)
+
+<br><br>
+
+![image](https://github.com/user-attachments/assets/9d5d5440-c0f2-451f-9759-5e01476241f1)
+
+<br><br>
 
 
 
 # Auto Scaling on AWS
 AWS Auto Scaling monitors your applications and automatically adjusts capacity to maintain steady, predictable performance at the lowest possible cost. Using AWS Auto Scaling, it’s easy to setup application scaling for multiple resources across multiple services in minutes. <br><br>
 
-![Screenshot 2024-09-04 215934](https://github.com/user-attachments/assets/d31d56bc-deb7-4b7a-a4a6-95af672b2a8b)<br><br>
+![Screenshot 2024-09-04 215934](https://github.com/user-attachments/assets/d31d56bc-deb7-4b7a-a4a6-95af672b2a8b)
+
+<br><br>
+
+![Screenshot 2024-09-05 133335](https://github.com/user-attachments/assets/a29d8b9c-73f6-423a-8a43-7d25ede4dce0)
+
+<br><br>
+
 
 ## Services and concepts :
 - Primary: Auto Scaling, Launch Templates, Creation and configuration of Security Groups
@@ -86,7 +103,58 @@ AWS Auto Scaling monitors your applications and automatically adjusts capacity t
 - Setup an Auto Scaling Group: Importance and method.
 - Configuring Security Groups: Overview and importance.
 - Testing the Auto Scaling Group: Ensuring proper scaling.
-- Auto Scaling Lab Teardown: Cleanup procedures. 
+<br><br>
+
+![Screenshot 2024-09-05 130435](https://github.com/user-attachments/assets/1114906a-d8ca-4c59-bc90-83c58338a934)
+
+<br><br>
+
+![Screenshot 2024-09-05 130738](https://github.com/user-attachments/assets/cf785d42-32ed-4557-9635-73624bd7ecaa)
+
+<br><br>
+
+![Screenshot 2024-09-05 130813](https://github.com/user-attachments/assets/f13facc0-86fb-4ed7-8b88-69c8b9add31b)
+
+<br><br>
+
+
+![Screenshot 2024-09-05 130933](https://github.com/user-attachments/assets/cee7e9fa-10a0-4081-b7ac-98554d6c3f3c)
+
+br><br>
+
+![Screenshot 2024-09-05 131047](https://github.com/user-attachments/assets/86e48b06-90c0-49b1-9957-42e04d9acd71)
+
+<br><br>
+
+![Screenshot 2024-09-05 131650](https://github.com/user-attachments/assets/6e4f89e5-fb89-4f7c-bf76-522a3f080ff5)
+
+<br><br>
+
+
+![Screenshot 2024-09-05 132328](https://github.com/user-attachments/assets/68767bce-af67-47af-aec0-ca9eb8d3609d)
+
+<br><br>
+
+![Screenshot 2024-09-05 132650](https://github.com/user-attachments/assets/d3ccf493-588f-4f5e-b494-578e4e7af837)
+
+<br><br>
+
+
+![Screenshot 2024-09-05 133027](https://github.com/user-attachments/assets/539a12ee-8ec1-4a11-bab5-d485fd2d3a14)
+
+<br><br>
+
+![Screenshot 2024-09-05 133117](https://github.com/user-attachments/assets/2163b471-1acf-4a5e-9f7c-967b0d9b37e1)
+
+<br><br>
+
+![Screenshot 2024-09-05 133823](https://github.com/user-attachments/assets/583f8d9e-274d-453f-9baf-a68616bc76b5)
+
+<br><br>
+
+
+![Screenshot 2024-09-05 133859](https://github.com/user-attachments/assets/d77eb535-2e3f-4b68-8d7b-edde4304c977)
+
 
 <br><br>
 
@@ -95,9 +163,13 @@ AWS Auto Scaling monitors your applications and automatically adjusts capacity t
 # Network - Amazon VPC
 Amazon VPC lets you create a private network within the AWS cloud.<br><br>
 
-![Screenshot 2024-09-04 220815](https://github.com/user-attachments/assets/f58753ad-907c-4a11-ac2f-f87a0243b2e2)<br><br>
+![Screenshot 2024-09-04 220815](https://github.com/user-attachments/assets/f58753ad-907c-4a11-ac2f-f87a0243b2e2)
 
-![image](https://github.com/user-attachments/assets/d1774140-0c3a-4819-aea0-14b9c23a35f5)<br><br>
+<br><br>
+
+![image](https://github.com/user-attachments/assets/d1774140-0c3a-4819-aea0-14b9c23a35f5)
+
+<br><br>
 
 
 ## Steps:
@@ -111,26 +183,42 @@ Amazon VPC lets you create a private network within the AWS cloud.<br><br>
 
 - Route Tables: Set up route tables for traffic routing.<br><br>
 
-![image](https://github.com/user-attachments/assets/d2fa917b-1423-493f-8699-16f925ca8f98)<br><br>
+![image](https://github.com/user-attachments/assets/d2fa917b-1423-493f-8699-16f925ca8f98)
+
+<br><br>
 
 
-![image](https://github.com/user-attachments/assets/8c5038c0-b4e0-43a3-a376-5d4dd3694a86)<br><br>
+![image](https://github.com/user-attachments/assets/8c5038c0-b4e0-43a3-a376-5d4dd3694a86)
 
-![image](https://github.com/user-attachments/assets/5138e882-aa42-4049-997d-9f8bd940f937)<br><br>
+<br><br>
 
+![image](https://github.com/user-attachments/assets/5138e882-aa42-4049-997d-9f8bd940f937)
 
-![image](https://github.com/user-attachments/assets/759ed561-8d23-40cf-ba18-e1a29eeb0a52)<br><br>
-
-
-
-![image](https://github.com/user-attachments/assets/7cd9b269-f1cd-4416-8af5-ae5d82f32c3b)<br><br>
-
-![image](https://github.com/user-attachments/assets/420b6a96-b1d8-4be6-9689-c0e8fa7a7855)<br><br>
+<br><br>
 
 
-![image](https://github.com/user-attachments/assets/8ad9097a-2eb0-4afd-92e1-fe18f4b34aa3)<br><br>
+![image](https://github.com/user-attachments/assets/759ed561-8d23-40cf-ba18-e1a29eeb0a52)
 
-![image](https://github.com/user-attachments/assets/05a8e366-14d0-4cd3-8222-3de6fd87e60c)<br><br>
+<br><br>
+
+
+
+![image](https://github.com/user-attachments/assets/7cd9b269-f1cd-4416-8af5-ae5d82f32c3b)
+
+<br><br>
+
+![image](https://github.com/user-attachments/assets/420b6a96-b1d8-4be6-9689-c0e8fa7a7855)
+
+<br><br>
+
+
+![image](https://github.com/user-attachments/assets/8ad9097a-2eb0-4afd-92e1-fe18f4b34aa3)
+
+<br><br>
+
+![image](https://github.com/user-attachments/assets/05a8e366-14d0-4cd3-8222-3de6fd87e60c)
+
+<br><br>
 
 
 ![image](https://github.com/user-attachments/assets/33c4fc9f-5842-4fed-b920-e4a389998546)
@@ -143,14 +231,18 @@ Amazon VPC lets you create a private network within the AWS cloud.<br><br>
 
 AWS IAM manages access to AWS services and resources securely.<br><br>
 
-![Screenshot 2024-09-04 220947](https://github.com/user-attachments/assets/6c0023ba-7b96-4a0e-896b-55d6e8cd5fc2)<br><br>
+![Screenshot 2024-09-04 220947](https://github.com/user-attachments/assets/6c0023ba-7b96-4a0e-896b-55d6e8cd5fc2)
+
+<br><br>
 
 ## Steps:
 - Launch EC2 Instances with Tags: Organizing and managing instances.
 
 - Create AWS IAM Identities: Overview of users, groups, roles.
 
-![Screenshot 2024-09-04 221001](https://github.com/user-attachments/assets/966c6166-5367-482f-9575-7dd7d73e3282)<br><br>
+![Screenshot 2024-09-04 221001](https://github.com/user-attachments/assets/966c6166-5367-482f-9575-7dd7d73e3282)
+
+<br><br>
 
 - Test the Access for Resources: Ensuring proper permissions.
 
@@ -165,13 +257,17 @@ AWS IAM manages access to AWS services and resources securely.<br><br>
 # Monitoring - Amazon CloudWatch
 CloudWatch provides monitoring for AWS resources and applications.<br><br>
 
-![Screenshot 2024-09-04 221107](https://github.com/user-attachments/assets/210d3ca5-5ce9-4079-bb81-8ae475d60ee6)<br><br>
+![Screenshot 2024-09-04 221107](https://github.com/user-attachments/assets/210d3ca5-5ce9-4079-bb81-8ae475d60ee6)
+
+<br><br>
 
 
 ## Steps:
 - Set Up CloudWatch: Enable monitoring for EC2, RDS, etc.<br><br>
 
-![Screenshot 2024-09-04 221116](https://github.com/user-attachments/assets/5d8648c1-7139-4791-9e79-fddeba9137ca)<br><br>
+![Screenshot 2024-09-04 221116](https://github.com/user-attachments/assets/5d8648c1-7139-4791-9e79-fddeba9137ca)
+
+<br><br>
 
 
 - Create Alarms: Set up alarms based on metrics like CPU usage.
@@ -183,11 +279,15 @@ CloudWatch provides monitoring for AWS resources and applications.<br><br>
 
 # Database - Amazon RDS<br><br>
 
-![Screenshot 2024-09-04 221142](https://github.com/user-attachments/assets/43c4ceea-0a66-4961-9c8e-b82813d6d7dc)<br><br>
+![Screenshot 2024-09-04 221142](https://github.com/user-attachments/assets/43c4ceea-0a66-4961-9c8e-b82813d6d7dc)
+
+<br><br>
 
 Amazon RDS manages relational databases with high availability.
 
-![Screenshot 2024-09-04 221155](https://github.com/user-attachments/assets/3a4bf78c-3ca2-41d7-9307-1cf066d28e36)<br><br>
+![Screenshot 2024-09-04 221155](https://github.com/user-attachments/assets/3a4bf78c-3ca2-41d7-9307-1cf066d28e36)
+
+<br><br>
 
 
 ## Steps:
@@ -204,16 +304,22 @@ Amazon RDS manages relational databases with high availability.
 
 # Storage - Amazon S3 & EFS<br><br>
 
-![Screenshot 2024-09-04 221240](https://github.com/user-attachments/assets/c958ed9f-1497-4112-8824-833055768151)<br><br>
+![Screenshot 2024-09-04 221240](https://github.com/user-attachments/assets/c958ed9f-1497-4112-8824-833055768151)
+
+<br><br>
 
 Amazon S3 provides scalable object storage; EFS provides scalable file storage.<br><br>
 
-![Screenshot 2024-09-04 221305](https://github.com/user-attachments/assets/3487a2cf-1252-4f7b-9aed-f4f5f76259d8)<br><br>
+![Screenshot 2024-09-04 221305](https://github.com/user-attachments/assets/3487a2cf-1252-4f7b-9aed-f4f5f76259d8)
+
+<br><br>
 
 ## Steps:
 - Create S3 Bucket: For static file storage and application data.<br><br>
 
-![Screenshot 2024-09-04 221405](https://github.com/user-attachments/assets/5ec0b47e-98e0-4bce-8f44-5196d9bc4a20)<br><br>
+![Screenshot 2024-09-04 221405](https://github.com/user-attachments/assets/5ec0b47e-98e0-4bce-8f44-5196d9bc4a20)
+
+<br><br>
 
 
 - Configure Permissions: Set bucket policies and access controls.
@@ -227,7 +333,9 @@ Amazon S3 provides scalable object storage; EFS provides scalable file storage.<
 
 # Provisioning - AWS CloudFormation<br><br>
 
-![Screenshot 2024-09-04 221419](https://github.com/user-attachments/assets/698fbf13-bb68-44bc-8fac-740bdfb17ce6)<br><br>
+![Screenshot 2024-09-04 221419](https://github.com/user-attachments/assets/698fbf13-bb68-44bc-8fac-740bdfb17ce6)
+
+<br><br>
 
 
 AWS CloudFormation automates the provisioning of AWS resources.
