@@ -353,13 +353,50 @@ CloudWatch provides monitoring for AWS resources and applications.<br><br>
 ## Steps:
 - Set Up CloudWatch: Enable monitoring for EC2, RDS, etc.<br><br>
 
+- Create Alarms: Set up alarms based on metrics like CPU usage.
+
+- Logs: Configure CloudWatch Logs for application and system logs.
+
+<br><br>
+
+![Screenshot 2024-09-05 163301](https://github.com/user-attachments/assets/90ac5c24-993b-45b1-9df7-987deafadc3a)
+
+<br><br>
+
+![Screenshot 2024-09-05 163425](https://github.com/user-attachments/assets/a165828b-b09f-42a0-b375-201324bf6b60)
+
+<br><br>
+
+![Screenshot 2024-09-05 163506](https://github.com/user-attachments/assets/5de0d798-a5b6-408d-87cf-2443890bc7ed)
+
+<br><br>
+
+![Screenshot 2024-09-05 163517](https://github.com/user-attachments/assets/e7290e89-d08c-40f5-adf2-5fb1c1a81e04)
+
+<br><br>
+
+![Screenshot 2024-09-05 163602](https://github.com/user-attachments/assets/b757ca45-10a6-457e-b43a-8521478bf3ef)
+
+<br><br>
+
+![Screenshot 2024-09-05 164048](https://github.com/user-attachments/assets/c4e46565-fc9f-4202-9311-63982d35f5b9)
 
 <br><br>
 
 
-- Create Alarms: Set up alarms based on metrics like CPU usage.
+![Screenshot 2024-09-05 164257](https://github.com/user-attachments/assets/9f376b50-c9a0-4891-92a2-5e2eb84828c5)
 
-- Logs: Configure CloudWatch Logs for application and system logs.
+<br><br>
+
+![Screenshot 2024-09-05 164800](https://github.com/user-attachments/assets/21dc1377-40ae-4f90-9d8b-f4c725aa6399)
+
+<br><br>
+
+![Screenshot 2024-09-05 165236](https://github.com/user-attachments/assets/170ee675-5bcf-4984-a433-89d248482885)
+
+<br><br>
+
+![Screenshot 2024-09-05 170329](https://github.com/user-attachments/assets/581e3c1d-97d3-4afb-bb41-eb16b137e491)
 
 <br><br>
 
