@@ -232,7 +232,7 @@ AWS IAM manages access to AWS services and resources securely.<br><br>
 ![Screenshot 2024-09-04 220947](https://github.com/user-attachments/assets/6c0023ba-7b96-4a0e-896b-55d6e8cd5fc2)
 
 <br><br>
- ![Screenshot 2024-09-05 150754](https://github.com/user-attachments/assets/2b5c500c-c779-4730-a8cd-ddaa8e7b1649)
+                 ![Screenshot 2024-09-05 150754](https://github.com/user-attachments/assets/2b5c500c-c779-4730-a8cd-ddaa8e7b1649)
 
 <br><br>
 
