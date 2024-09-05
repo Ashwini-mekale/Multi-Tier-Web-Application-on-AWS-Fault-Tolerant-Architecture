@@ -170,8 +170,6 @@ Amazon VPC lets you create a private network within the AWS cloud.<br><br>
 ![image](https://github.com/user-attachments/assets/d1774140-0c3a-4819-aea0-14b9c23a35f5)
 
 <br><br>
-
-
 ## Steps:
 - Create VPC: Set up the VPC with CIDR block.
 
@@ -232,9 +230,6 @@ Amazon VPC lets you create a private network within the AWS cloud.<br><br>
 AWS IAM manages access to AWS services and resources securely.<br><br>
 
 ![Screenshot 2024-09-04 220947](https://github.com/user-attachments/assets/6c0023ba-7b96-4a0e-896b-55d6e8cd5fc2)
-
-<br><br>
-
 
 <br><br>
 
