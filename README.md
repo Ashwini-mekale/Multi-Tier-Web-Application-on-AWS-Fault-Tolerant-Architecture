@@ -345,11 +345,14 @@ CloudWatch provides monitoring for AWS resources and applications.<br><br>
 
 <br><br>
 
+![Screenshot 2024-09-04 221116](https://github.com/user-attachments/assets/5d8648c1-7139-4791-9e79-fddeba9137ca)
+
+<br><br>
+
 
 ## Steps:
 - Set Up CloudWatch: Enable monitoring for EC2, RDS, etc.<br><br>
 
-![Screenshot 2024-09-04 221116](https://github.com/user-attachments/assets/5d8648c1-7139-4791-9e79-fddeba9137ca)
 
 <br><br>
 
