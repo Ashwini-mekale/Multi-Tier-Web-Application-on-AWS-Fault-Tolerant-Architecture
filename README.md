@@ -235,22 +235,106 @@ AWS IAM manages access to AWS services and resources securely.<br><br>
 
 <br><br>
 
+
+<br><br>
+
 ## Steps:
 - Launch EC2 Instances with Tags: Organizing and managing instances.
 
 - Create AWS IAM Identities: Overview of users, groups, roles.
 
-![Screenshot 2024-09-04 221001](https://github.com/user-attachments/assets/966c6166-5367-482f-9575-7dd7d73e3282)
-
-<br><br>
-
 - Test the Access for Resources: Ensuring proper permissions.
 
 - Assign IAM Role for EC2 Instance: How roles enhance security. 
 
+
+<br><br>
+
+ ![Screenshot 2024-09-05 150754](https://github.com/user-attachments/assets/2b5c500c-c779-4730-a8cd-ddaa8e7b1649)
+
+<br><br>
+
+
+![image](https://github.com/user-attachments/assets/0fee54e3-7d62-49cb-b681-f6b839f4d547)
+
+<br><br>
+
+
+![Screenshot 2024-09-04 221001](https://github.com/user-attachments/assets/966c6166-5367-482f-9575-7dd7d73e3282)
+
+<br><br>
+
+
+![image](https://github.com/user-attachments/assets/affba964-d8a0-4f60-8502-4b8bdec369db)
+
+<br><br>
+
+
+![image](https://github.com/user-attachments/assets/af4ba0e4-6e66-4cc5-9315-f88be71ab65d)
+
+<br><br>
+
+![image](https://github.com/user-attachments/assets/08879f6e-9771-4f11-bad6-ef93d983498a)
+
+<br><br>
+
+
+
+![image](https://github.com/user-attachments/assets/b433f5c0-4f42-4630-8754-699145c2700e)
+
+<br><br>
+
+
+![image](https://github.com/user-attachments/assets/808c3ad6-00f4-468b-bf0c-00f10ea9c2ac)
+
+<br><br>
+
+
+
+![image](https://github.com/user-attachments/assets/a12d2367-3209-4745-ba8b-6a993cf8001f)
+
+<br><br>
+
 ![Screenshot 2024-09-04 221051](https://github.com/user-attachments/assets/dae15eb3-a04e-4797-a722-8d59826895fc)
 
 <br><br>
+
+
+![image](https://github.com/user-attachments/assets/bdecf54a-9f6d-48cc-9bc9-dcf1b8674fcf)
+
+<br><br>
+
+![image](https://github.com/user-attachments/assets/697163dd-14b8-4b86-9520-e661434ca5cc)
+
+<br><br>
+
+
+![image](https://github.com/user-attachments/assets/60673822-0cd7-43cc-b6ca-e046d5226811)
+
+<br><br>
+
+
+![image](https://github.com/user-attachments/assets/bbffefd2-df8d-452d-be33-8ed1907c970f)
+
+<br><br>
+
+
+![image](https://github.com/user-attachments/assets/c8a5dde3-8bdf-4890-9dde-7c72fe540efd)
+
+<br><br>
+
+
+![image](https://github.com/user-attachments/assets/d9b96197-534d-4199-b471-3cabd6caee00)
+
+<br><br>
+
+
+
+
+
+
+
+
 
 
 
