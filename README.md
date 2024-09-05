@@ -397,16 +397,16 @@ CloudWatch provides monitoring for AWS resources and applications.<br><br>
 
 
 # Database - Amazon RDS<br><br>
+Amazon RDS manages relational databases with high availability.
 
 ![Screenshot 2024-09-04 221142](https://github.com/user-attachments/assets/43c4ceea-0a66-4961-9c8e-b82813d6d7dc)
 
 <br><br>
 
-Amazon RDS manages relational databases with high availability.
-
-![Screenshot 2024-09-04 221155](https://github.com/user-attachments/assets/3a4bf78c-3ca2-41d7-9307-1cf066d28e36)
+![Screenshot 2024-09-04 221214](https://github.com/user-attachments/assets/ba55fea7-1507-42cd-ae41-8e28065191ae)
 
 <br><br>
+
 
 
 ## Steps:
@@ -417,8 +417,8 @@ Amazon RDS manages relational databases with high availability.
 - Backup: Configure automated backups and snapshots.<br><br>
 
 
-![Screenshot 2024-09-04 221214](https://github.com/user-attachments/assets/ba55fea7-1507-42cd-ae41-8e28065191ae)
-<br><br>
+
+
 
 
 # Storage - Amazon S3 & EFS<br><br>
