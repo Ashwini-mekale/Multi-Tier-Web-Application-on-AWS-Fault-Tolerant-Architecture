@@ -420,28 +420,19 @@ Amazon RDS manages relational databases with high availability.
 
 ![Screenshot 2024-09-05 180916](https://github.com/user-attachments/assets/fd0c5b63-694a-4484-8d6c-44cf613733e5)
 
+<br><br>
 
 
-
-# Storage - Amazon S3 & EFS<br><br>
+# Storage - Amazon S3 & EFS
+Amazon S3 provides scalable object storage; EFS provides scalable file storage.<br><br>
 
 ![Screenshot 2024-09-04 221240](https://github.com/user-attachments/assets/c958ed9f-1497-4112-8824-833055768151)
 
-<br><br>
-
-Amazon S3 provides scalable object storage; EFS provides scalable file storage.<br><br>
-
-![Screenshot 2024-09-04 221305](https://github.com/user-attachments/assets/3487a2cf-1252-4f7b-9aed-f4f5f76259d8)
 
 <br><br>
 
 ## Steps:
-- Create S3 Bucket: For static file storage and application data.<br><br>
-
-![Screenshot 2024-09-04 221405](https://github.com/user-attachments/assets/5ec0b47e-98e0-4bce-8f44-5196d9bc4a20)
-
-<br><br>
-
+- Create S3 Bucket: For static file storage and application data.
 
 - Configure Permissions: Set bucket policies and access controls.
 
@@ -452,14 +443,119 @@ Amazon S3 provides scalable object storage; EFS provides scalable file storage.<
 <br><br>
 
 
-# Provisioning - AWS CloudFormation<br><br>
-
-![Screenshot 2024-09-04 221419](https://github.com/user-attachments/assets/698fbf13-bb68-44bc-8fac-740bdfb17ce6)
+# Amazon Elastic File System (EFS)
+- Amazon Elastic File System (EFS) is designed to provide serverless, fully elastic file storage that lets you share file data without provisioning or managing storage capacity and performance. 
+- Amazon Elastic File System (EFS) automatically grows and shrinks as you add and remove files with no need for management or provisioning.
 
 <br><br>
 
 
-AWS CloudFormation automates the provisioning of AWS resources.
+![Screenshot 2024-09-04 221305](https://github.com/user-attachments/assets/3487a2cf-1252-4f7b-9aed-f4f5f76259d8)
+  
+<br><br>
+
+![Screenshot 2024-09-04 221405](https://github.com/user-attachments/assets/5ec0b47e-98e0-4bce-8f44-5196d9bc4a20)
+<br><br
+     
+## Steps:
+- Create a Virtual Private Cloud (VPC) with two Public Subnets
+- Create Security Groups for EC2 and EFS
+- Create an Elastic File system (EFS)
+- Create the first EC2 Instance and Mount our EFS drive
+- Create the second EC2 Instance and Mount our EFS drive
+- Connect to both EC2 instances using Instance Connect
+- Create a file on EFS drive
+- Demonstrate the EFS mount from the second instance
+
+<br><br>
+
+
+![image](https://github.com/user-attachments/assets/e8c9946a-781a-428e-8e18-3c5988643d3d)
+
+<br><br>
+
+
+![image](https://github.com/user-attachments/assets/8eb43658-4ba9-4c95-99d6-009aead5346f)
+
+<br><br>
+
+
+![image](https://github.com/user-attachments/assets/2b31a281-510f-41ce-8271-b7faea8dd166)
+
+
+![image](https://github.com/user-attachments/assets/3bb40401-2904-41ad-baab-5bc57ea0b3fb)
+
+<br><br>
+
+
+![image](https://github.com/user-attachments/assets/330db289-de5b-4120-8684-f9fa773334f9)
+
+<br><br>
+
+
+![image](https://github.com/user-attachments/assets/e3310d77-34fc-4ccf-9be7-eac1b16eff48)
+
+<br><br>
+
+
+![image](https://github.com/user-attachments/assets/392d5a98-a541-44ac-86f9-1200b96e872f)
+
+<br><br>
+
+
+# Amazon S3
+- Amazon Simple Storage Service (Amazon S3) is an object storage service that offers industry-leading scalability, data availability, security, and performance. 
+
+- It can be used to store and retrieve any amount of data, at any time, from anywhere on the web.
+
+## Steps:
+- Creating a bucket in S3
+- Adding objects to your S3 bucket
+- Working with objects in the S3 Console
+- Accessing objects stored in S3
+- Enabling bucket versioning
+- Setting up a Lifecycle Policy
+
+<br><br>
+
+![image](https://github.com/user-attachments/assets/b5e77e63-26ef-4abf-9691-fd76709fa4b8)
+
+<br><br>
+
+![image](https://github.com/user-attachments/assets/d057baf4-7a92-4585-b45d-3e197d112da6)
+
+<br><br>
+
+![image](https://github.com/user-attachments/assets/0ad99934-9597-4a4b-8f65-0aa5041b2c9e)
+
+<br><br>
+
+
+![image](https://github.com/user-attachments/assets/489ef1a8-7833-4c64-bc93-4144998c463f)
+
+<br><br>
+
+![image](https://github.com/user-attachments/assets/d0d81bc2-cd76-40f8-950f-dc80f93e759a)
+
+<br><br>
+
+
+
+
+
+
+
+
+
+
+# Provisioning - AWS CloudFormation<br><br>
+
+- AWS CloudFormation automates the provisioning of AWS resources.
+<br><br>
+
+![Screenshot 2024-09-04 221419](https://github.com/user-attachments/assets/698fbf13-bb68-44bc-8fac-740bdfb17ce6)
+
+<br><br>
 
 ## Steps:
 - Create Templates: Define resources in CloudFormation templates.
@@ -468,28 +564,65 @@ AWS CloudFormation automates the provisioning of AWS resources.
 
 - Update and Manage: Update stacks and manage resources.
 
+<br><br>
+
+# Setting up a VPC
+
+## Steps:
+- Create a VPC
+- Create Internet Gateway
+- Create First Subnet
+- Create Additional Subnet
+- Setting up routing table
+- Create Security Group
 
 
 
 
+<br><br>
+
+# Setting up an EC2 Instance
+
+## Steps:
+- Launch EC2 Instance
+- Tag and pass User Data to EC2 Instance
+- Terminate EC2 Instance
+- Launch EC2 Instance in the Lab VPC
 
 
 
 
+# Conclusion
+
+## Recap of Project Goals:
+- Successfully deployed a multi-tier web application that is highly available, fault-tolerant, and scalable using AWS services.
+- Achieved seamless integration between different AWS services, ensuring the application is secure, performs well, and is cost-efficient.
+
+## Key Takeaways:
+- Understanding of AWS Architecture: Gained hands-on experience in designing and deploying a robust AWS architecture.
+- Importance of High Availability: Learned how to distribute application workloads across multiple availability zones to prevent downtime.
+- Scalability: Mastered the concept of auto-scaling to ensure that the application can handle increased traffic without manual intervention.
+- Security Best Practices: Implemented best practices for securing cloud resources, including the use of IAM roles, security groups, and encrypted data storage.
+- Automation with CloudFormation: Leveraged CloudFormation for automating the deployment process, ensuring consistency and reducing manual errors.
+
+<br><br>
+
+# References and Resources
 
 
+## AWS Documentation:
+- Amazon EC2 - Official documentation for Amazon Elastic Compute Cloud.
+- Amazon VPC - Virtual Private Cloud documentation and best practices.
+- AWS IAM - Identity and Access Management service details.
+- Amazon CloudWatch - Monitoring and logging with CloudWatch.
+- Amazon RDS - Relational Database Service documentation.
+- Amazon S3 - Simple Storage Service for object storage.
+- AWS CloudFormation - Infrastructure as Code service for automating deployments.
 
-
-
-
-
-
-
-
-
-
-
-
+## Workshops & Tutorials:
+- AWS General Immersion Day - Official AWS workshop catalog.
+- AWS Training and Certification - Training resources for learning AWS services.
+- YouTube: AWS Multi-Tier Architecture - Practical guide to building multi-tier applications on AWS.
 
 
 
