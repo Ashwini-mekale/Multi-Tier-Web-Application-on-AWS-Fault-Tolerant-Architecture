@@ -232,6 +232,13 @@ AWS IAM manages access to AWS services and resources securely.<br><br>
 ![Screenshot 2024-09-04 220947](https://github.com/user-attachments/assets/6c0023ba-7b96-4a0e-896b-55d6e8cd5fc2)
 
 <br><br>
+ ![Screenshot 2024-09-05 150754](https://github.com/user-attachments/assets/2b5c500c-c779-4730-a8cd-ddaa8e7b1649)
+
+<br><br>
+
+![Screenshot 2024-09-04 221001](https://github.com/user-attachments/assets/966c6166-5367-482f-9575-7dd7d73e3282)
+
+<br><br>
 
 ## Steps:
 - Launch EC2 Instances with Tags: Organizing and managing instances.
@@ -245,20 +252,9 @@ AWS IAM manages access to AWS services and resources securely.<br><br>
 
 <br><br>
 
- ![Screenshot 2024-09-05 150754](https://github.com/user-attachments/assets/2b5c500c-c779-4730-a8cd-ddaa8e7b1649)
-
-<br><br>
-
-
 ![image](https://github.com/user-attachments/assets/0fee54e3-7d62-49cb-b681-f6b839f4d547)
 
 <br><br>
-
-
-![Screenshot 2024-09-04 221001](https://github.com/user-attachments/assets/966c6166-5367-482f-9575-7dd7d73e3282)
-
-<br><br>
-
 
 ![image](https://github.com/user-attachments/assets/affba964-d8a0-4f60-8502-4b8bdec369db)
 
