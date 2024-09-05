@@ -428,6 +428,9 @@ Amazon S3 provides scalable object storage; EFS provides scalable file storage.<
 
 ![Screenshot 2024-09-04 221240](https://github.com/user-attachments/assets/c958ed9f-1497-4112-8824-833055768151)
 
+<br><br>
+
+![Screenshot 2024-09-04 221331](https://github.com/user-attachments/assets/d47d2f79-1c92-4ce8-bb8d-b2c9401f1940)
 
 <br><br>
 
@@ -438,7 +441,6 @@ Amazon S3 provides scalable object storage; EFS provides scalable file storage.<
 
 - Set Up EFS: Configure EFS for shared file storage among instances.
 
-![Screenshot 2024-09-04 221331](https://github.com/user-attachments/assets/d47d2f79-1c92-4ce8-bb8d-b2c9401f1940)
 
 <br><br>
 
@@ -452,9 +454,7 @@ Amazon S3 provides scalable object storage; EFS provides scalable file storage.<
 
 ![Screenshot 2024-09-04 221305](https://github.com/user-attachments/assets/3487a2cf-1252-4f7b-9aed-f4f5f76259d8)
   
-<br><br>
 
-![Screenshot 2024-09-04 221405](https://github.com/user-attachments/assets/5ec0b47e-98e0-4bce-8f44-5196d9bc4a20)
 <br><br
      
 ## Steps:
@@ -507,6 +507,12 @@ Amazon S3 provides scalable object storage; EFS provides scalable file storage.<
 - Amazon Simple Storage Service (Amazon S3) is an object storage service that offers industry-leading scalability, data availability, security, and performance. 
 
 - It can be used to store and retrieve any amount of data, at any time, from anywhere on the web.
+
+  <br><br>
+
+![Screenshot 2024-09-04 221405](https://github.com/user-attachments/assets/5ec0b47e-98e0-4bce-8f44-5196d9bc4a20)
+
+<br><br>
 
 ## Steps:
 - Creating a bucket in S3
