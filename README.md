@@ -617,14 +617,21 @@ Amazon S3 provides scalable object storage; EFS provides scalable file storage.<
 
 # Setting up an EC2 Instance
 
+![Screenshot 2024-09-06 130016](https://github.com/user-attachments/assets/07391976-92d1-4233-919f-fb7ec7571923)
+
+
 ## Steps:
 - Launch EC2 Instance
 - Tag and pass User Data to EC2 Instance
 - Terminate EC2 Instance
 - Launch EC2 Instance in the Lab VPC
+![Screenshot 2024-09-06 124804](https://github.com/user-attachments/assets/2fb7705a-d4bd-4543-819d-848b8c6baee5)
 
+![Screenshot 2024-09-06 124823](https://github.com/user-attachments/assets/66525f6f-7c73-4250-a253-9e7720b7bc25)
 
+![Screenshot 2024-09-06 125123](https://github.com/user-attachments/assets/ac5e465b-d46b-4f76-98a3-aa63d9228a4e)
 
+![Screenshot 2024-09-06 125845](https://github.com/user-attachments/assets/f0cc4761-76fe-46c3-828d-0f6fcff6ab4e)
 
 # Conclusion
 
