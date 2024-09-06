@@ -580,7 +580,8 @@ Amazon S3 provides scalable object storage; EFS provides scalable file storage.<
 - Create Security Group
 
 
-![Screenshot 2024-09-06 115053](https://github.com/user-attachments/assets/9ce251c5-c7d6-4d27-9b0d-65b23172e737)
+![Screenshot 2024-09-06 114006](https://github.com/user-attachments/assets/926da30c-1c20-4303-a9bf-8febb63767af)
+
 
 ![Screenshot 2024-09-06 115138](https://github.com/user-attachments/assets/4fba7c56-8f19-417a-a554-292d8b16a763)
 
@@ -601,13 +602,12 @@ Amazon S3 provides scalable object storage; EFS provides scalable file storage.<
 
 ![Screenshot 2024-09-06 115712](https://github.com/user-attachments/assets/88d3cb6c-47be-4096-bee6-a3ab3deddc6a)
 
+![Screenshot 2024-09-06 115727](https://github.com/user-attachments/assets/795be1e1-d8b7-4bd2-b17f-efffc895319f)
+
 ![Screenshot 2024-09-06 115836](https://github.com/user-attachments/assets/eb20fb5b-53fa-438f-a53b-2f37d5d655f9)
 
 ![Screenshot 2024-09-06 115727](https://github.com/user-attachments/assets/795be1e1-d8b7-4bd2-b17f-efffc895319f)
 
-
-
-![Screenshot 2024-09-06 120002](https://github.com/user-attachments/assets/ebcd8533-a133-4f8a-9a30-2dbfce006ff2)
 
 ![Screenshot 2024-09-06 120046](https://github.com/user-attachments/assets/3bf3bfea-12f3-4258-97cb-ca85f2f733e3)
 
