@@ -571,6 +571,8 @@ Amazon S3 provides scalable object storage; EFS provides scalable file storage.<
 # Setting up a VPC
 ![Screenshot 2024-09-06 120431](https://github.com/user-attachments/assets/aa2aa5c0-d2f4-45cd-ae06-0073ae91b7c5)
 
+<br><br>
+
 ## Steps:
 - Create a VPC
 - Create Internet Gateway
@@ -579,34 +581,57 @@ Amazon S3 provides scalable object storage; EFS provides scalable file storage.<
 - Setting up routing table
 - Create Security Group
 
+<br><br>
+
 
 ![Screenshot 2024-09-06 114006](https://github.com/user-attachments/assets/926da30c-1c20-4303-a9bf-8febb63767af)
+
+<br><br>
 
 
 ![Screenshot 2024-09-06 115138](https://github.com/user-attachments/assets/4fba7c56-8f19-417a-a554-292d8b16a763)
 
+<br><br>
 
 
 ![Screenshot 2024-09-06 115340](https://github.com/user-attachments/assets/e67fadef-fefc-40c9-bbb3-f704c88e9d68)
 
+<br><br>
+
 ![Screenshot 2024-09-06 115642](https://github.com/user-attachments/assets/897750de-4930-417f-bf3a-0ecdbbc70bca)
 
+<br><br>
+
 ![Screenshot 2024-09-06 115727](https://github.com/user-attachments/assets/795be1e1-d8b7-4bd2-b17f-efffc895319f)
+
+<br><br>
 
 
 ![Screenshot 2024-09-06 115658](https://github.com/user-attachments/assets/50bfa028-1aca-45af-8945-eebc9732c435)
 
+<br><br>
+
 
 ![Screenshot 2024-09-06 115727](https://github.com/user-attachments/assets/795be1e1-d8b7-4bd2-b17f-efffc895319f)
+
+<br><br>
 
 
 ![Screenshot 2024-09-06 115712](https://github.com/user-attachments/assets/88d3cb6c-47be-4096-bee6-a3ab3deddc6a)
 
+<br><br>
+
 ![Screenshot 2024-09-06 115727](https://github.com/user-attachments/assets/795be1e1-d8b7-4bd2-b17f-efffc895319f)
+
+<br><br>
 
 ![Screenshot 2024-09-06 115836](https://github.com/user-attachments/assets/eb20fb5b-53fa-438f-a53b-2f37d5d655f9)
 
+<br><br>
+
 ![Screenshot 2024-09-06 115727](https://github.com/user-attachments/assets/795be1e1-d8b7-4bd2-b17f-efffc895319f)
+
+<br><br>
 
 
 ![Screenshot 2024-09-06 120046](https://github.com/user-attachments/assets/3bf3bfea-12f3-4258-97cb-ca85f2f733e3)
@@ -616,8 +641,12 @@ Amazon S3 provides scalable object storage; EFS provides scalable file storage.<
 <br><br>
 
 # Setting up an EC2 Instance
+<br><br>
+
 
 ![Screenshot 2024-09-06 130016](https://github.com/user-attachments/assets/07391976-92d1-4233-919f-fb7ec7571923)
+
+<br><br>
 
 
 ## Steps:
@@ -625,13 +654,25 @@ Amazon S3 provides scalable object storage; EFS provides scalable file storage.<
 - Tag and pass User Data to EC2 Instance
 - Terminate EC2 Instance
 - Launch EC2 Instance in the Lab VPC
+
+  <br><br>
+
 ![Screenshot 2024-09-06 124804](https://github.com/user-attachments/assets/2fb7705a-d4bd-4543-819d-848b8c6baee5)
+
+<br><br>
 
 ![Screenshot 2024-09-06 124823](https://github.com/user-attachments/assets/66525f6f-7c73-4250-a253-9e7720b7bc25)
 
+<br><br>
+
 ![Screenshot 2024-09-06 125123](https://github.com/user-attachments/assets/ac5e465b-d46b-4f76-98a3-aa63d9228a4e)
 
+<br><br>
+
 ![Screenshot 2024-09-06 125845](https://github.com/user-attachments/assets/f0cc4761-76fe-46c3-828d-0f6fcff6ab4e)
+
+
+<br><br>
 
 # Conclusion
 
