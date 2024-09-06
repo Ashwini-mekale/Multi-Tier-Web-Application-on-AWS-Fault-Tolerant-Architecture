@@ -578,9 +578,7 @@ Amazon S3 provides scalable object storage; EFS provides scalable file storage.<
 - Create Additional Subnet
 - Setting up routing table
 - Create Security Group
-![Screenshot 2024-09-06 114006](https://github.com/user-attachments/assets/8f0c876f-999c-45b2-8c70-122f63d7acf9)
 
-![Screenshot 2024-09-06 114133](https://github.com/user-attachments/assets/341137a0-e49c-41a2-9062-37c51c8c63ce)
 
 ![Screenshot 2024-09-06 115053](https://github.com/user-attachments/assets/9ce251c5-c7d6-4d27-9b0d-65b23172e737)
 
@@ -592,6 +590,9 @@ Amazon S3 provides scalable object storage; EFS provides scalable file storage.<
 
 ![Screenshot 2024-09-06 115642](https://github.com/user-attachments/assets/897750de-4930-417f-bf3a-0ecdbbc70bca)
 
+![Screenshot 2024-09-06 115727](https://github.com/user-attachments/assets/795be1e1-d8b7-4bd2-b17f-efffc895319f)
+
+
 ![Screenshot 2024-09-06 115658](https://github.com/user-attachments/assets/50bfa028-1aca-45af-8945-eebc9732c435)
 
 
@@ -601,6 +602,9 @@ Amazon S3 provides scalable object storage; EFS provides scalable file storage.<
 ![Screenshot 2024-09-06 115712](https://github.com/user-attachments/assets/88d3cb6c-47be-4096-bee6-a3ab3deddc6a)
 
 ![Screenshot 2024-09-06 115836](https://github.com/user-attachments/assets/eb20fb5b-53fa-438f-a53b-2f37d5d655f9)
+
+![Screenshot 2024-09-06 115727](https://github.com/user-attachments/assets/795be1e1-d8b7-4bd2-b17f-efffc895319f)
+
 
 
 ![Screenshot 2024-09-06 120002](https://github.com/user-attachments/assets/ebcd8533-a133-4f8a-9a30-2dbfce006ff2)
